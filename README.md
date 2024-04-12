@@ -1,17 +1,17 @@
-Absolutely! Here's your profile filled out:
-
-- 👋 Hi, I’m @PraveenKakulandala
-- 👀 I’m interested in Java programming, software development, and exploring new technologies.
-- 🌱 I’m currently learning advanced Java concepts, data structures, and algorithms.
-- 💞️ I’m looking to collaborate on Java projects, especially related to web development or mobile app development.
-- 📫 How to reach me: You can reach me via email at praveenkekulandala@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/praveen-kakulandala-623103255.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy playing cricket and exploring different cuisines in my free time!
-- <h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Praveen Kakulandala</h1>
+<h3 align="center">"Undergraduate exploring the world of code 🚀"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkakulandala&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkakulandala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkakulandala" alt="praveenkakulandala" /></a> </p>
+
+- 🔭 I’m currently **learning advanced Java concepts, data structures, and algorithms.**
+
+- 👯 I’m looking to collaborate on **Java projects, especially related to web development or mobile app development.**
+
+- 📫 How to reach me **You can reach me via email at praveenkekulandala@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/praveen-kakulandala-623103255.**
+
+- ⚡ Fun fact **I enjoy playing cricket and exploring different cuisines in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
