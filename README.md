@@ -1,4 +1,4 @@
-    <img src="https://pbs.twimg.com/media/CBiVLtLWgAAEb-q?format=png&name=900x900" alt="Image description">
+ <img src="https://pbs.twimg.com/media/CBiVLtLWgAAEb-q?format=png&name=900x900" alt="Image description">
 
 <h1 align="center">Hi 👋, I'm Praveen Kakulandala</h1>
 <h3 align="center">"Undergraduate exploring the world of code 🚀"</h3>
