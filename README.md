@@ -1,3 +1,5 @@
+    <img src="https://pbs.twimg.com/media/CBiVLtLWgAAEb-q?format=png&name=900x900" alt="Image description">
+
 <h1 align="center">Hi 👋, I'm Praveen Kakulandala</h1>
 <h3 align="center">"Undergraduate exploring the world of code 🚀"</h3>
 
@@ -21,7 +23,6 @@
 <a href="https://instagram.com/praveen kekulandala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praveen kekulandala" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://pbs.twimg.com/media/CBiVLtLWgAAEb-q?format=png&name=900x900)" alt="praveen kekulandala" height="30" width="40" />
 
 
 <h3 align="left">Languages and Tools:</h3>
